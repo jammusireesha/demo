@@ -1,3 +1,1 @@
-# demo
-gitintro
-hey first trail of git
+Create a repositiry
